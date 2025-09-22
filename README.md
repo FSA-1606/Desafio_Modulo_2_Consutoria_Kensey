@@ -20,6 +20,7 @@ A solução completa foi simulada no Cisco Packet Tracer para validar o design, 
 │   ├── Fisico_Filial_RJ.png
 │   └── Fisico_Filial_MG.png
 └──  README.md
+
 Proposta_Tecnica_FicticioSA.docx: Documento detalhado com o escopo, objetivos, justificativas e o plano de implementação do projeto[cite: 1].
 Simulacao_Packet_Tracer/: Pasta com os arquivos .pkt para simulação no Cisco Packet Tracer.
 Diagramas/: Imagens dos diagramas lógicos e físicos da solução implementada[cite: 24, 25].
@@ -52,3 +53,5 @@ Consulte o documento Proposta_Tecnica_FicticioSA.docx para entender todas as jus
 👤 Autor
 Nome: Fernando Andrade
 LinkedIn: www.linkedin.com/in/fernando-silva-andrade
+
+*******************************************************************************************************************
