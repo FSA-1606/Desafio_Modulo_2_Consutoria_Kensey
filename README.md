@@ -55,3 +55,7 @@ Nome: Fernando Andrade
 LinkedIn: www.linkedin.com/in/fernando-silva-andrade
 
 *******************************************************************************************************************
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0f5ea8e (Projeto Final Modulo 2 Kensey Cibersec)
